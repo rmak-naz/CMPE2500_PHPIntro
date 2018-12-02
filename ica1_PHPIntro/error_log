@@ -1,0 +1,4 @@
+[06-Jan-2017 19:57:05 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/rmak1991/public_html/cmpe2500/icas/ica1_PHPIntro/ica1.php on line 28
+[06-Jan-2017 19:57:05 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/rmak1991/public_html/cmpe2500/icas/ica1_PHPIntro/ica1.php on line 33
+[09-Jan-2017 21:36:22 UTC] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home/rmak1991/public_html/cmpe2500/icas/ica1_PHPIntro/ica1.php on line 118
+[09-Jan-2017 21:37:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home/rmak1991/public_html/cmpe2500/icas/ica1_PHPIntro/ica1.php on line 118
